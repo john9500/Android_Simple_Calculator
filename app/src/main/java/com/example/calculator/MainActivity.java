@@ -1,5 +1,5 @@
 package com.example.calculator;
-//Autho : John Sathya Seelan
+//Author : John Sathya Seelan
 
 import androidx.appcompat.app.AppCompatActivity;
 
